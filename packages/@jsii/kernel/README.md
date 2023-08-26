@@ -10,7 +10,7 @@ proxy object to interact with javascript objects they represent.
 [jsii]: https://github.com/aws/jsii
 [@jsii/runtime]: https://github.com/aws/jsii/tree/main/packages/@jsii/runtime
 
-See [`api.ts`](./lib/api.ts) for request/response API.
+See [`api.ts`](./src/api.ts) for request/response API.
 
 ## License
 
